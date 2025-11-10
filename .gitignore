@@ -1,0 +1,7 @@
+# Ignore Visual Studio and VS Code build files
+.vscode/
+*.exe
+*.obj
+*.pdb
+*.log
+__pycache__/
